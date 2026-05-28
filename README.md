@@ -15,7 +15,7 @@
 ###### <sup>[2]</sup> I will always 'support' the latest LineageOS version available for r8q, day one.
 
 ## Support
-- t.me/not_kernel
+- none, as this is a terrible fork for c1q
 
 ## Warranty
 - None, none at all. I am handing you a sharp knife, it is not on me if you stab yourself with it.
